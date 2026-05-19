@@ -33,11 +33,7 @@ Resumos simples publicados no III Congresso Internacional de Educação e Inova�
 
 # Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amorimgi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimgi&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+![Giovana GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=amorimgi&theme=tokyonight)
 
 # 👀 Visitas no Perfil
 
