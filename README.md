@@ -6,7 +6,7 @@
 
 ---
 
-# 🛠️ Tecnologias 
+# 🛠️ Tecnologias e Áreas de Interesse
 
 ## 📊 Análise de Dados
 
@@ -14,6 +14,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
@@ -24,5 +25,10 @@
 📄 ["Tecnologia educacional como promotora do bem-estar docente: Plataforma Digital para otimização do trabalho Pedagógico em Geografia." - 2025](https://congresso.unimontes.br/anais/0c4d1b63-27d7-4555-8571-eea995e7c809) 
 
 ---
+# 📈 Estatísticas do GitHub
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amorimgi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimgi&layout=compact&theme=tokyonight)
 
