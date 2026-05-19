@@ -31,7 +31,7 @@
 
 ---
 
-# Em que ando trabalhando no momento 
+# Atividade em andamento 
 
 - Atuando no Front-end no desenvolvimento do site do Laboratório LEGIDEPE;
 - Estudando sobre a área de Análise de Dados;
