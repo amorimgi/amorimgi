@@ -33,9 +33,7 @@ Resumos simples publicados no III Congresso Internacional de Educação e Inova�
 
 ---
 
-# Estatísticas do GitHub
-
-![Giovana GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=amorimgi&theme=tokyonight)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amorimgi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 👀 Visitas no Perfil
 
