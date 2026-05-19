@@ -2,7 +2,7 @@
    <img src="Banner.png" alt="Banner Giovana Amorim" width="100%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=1000&lines=Graduanda+em+Sistemas+de+Informação;Pesquisadora+em+Tecnologias+Educacionais;Data+Analytics+%7C+Data+Engineering;Python+%7C+SQL+%7C+Power+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=1000&lines=Graduanda+em+Sistemas+de+Informação;Data+Analytics+%7C+Data+Engineering;)](https://git.io/typing-svg)
 
 # Sobre mim
 
