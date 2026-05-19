@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6a11cb,100:2575fc&height=220&section=header&text=Giovana%20Amorim&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=45"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Giovana%20Amorim&fontSize=70&fontColor=8A2BE2&animation=fadeIn&fontAlignY=42"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=A020F0&center=true&vCenter=true&width=1000&lines=Graduanda+em+Sistemas+de+Informação;Pesquisadora+em+Tecnologias+Educacionais;Data+Analytics+%7C+Data+Engineering;Python+%7C+SQL+%7C+Power+BI" />
-</p>
+<h3 align="center">
+💻 Sistemas de Informação • 📊 Data Analytics • ⚡ Data Engineering
+</h3>
 
 <p align="center">
    <img src="Banner.png" alt="Banner Giovana Amorim" width="100%">
