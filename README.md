@@ -33,7 +33,7 @@ Resumos simples publicados no III Congresso Internacional de Educação e Inova�
 
 # Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amorimgi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amorimgi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimgi&layout=compact&theme=tokyonight)
 
@@ -43,6 +43,3 @@ Resumos simples publicados no III Congresso Internacional de Educação e Inova�
 
 ---
 
-# 🏆 Troféus do GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amorimgi&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
