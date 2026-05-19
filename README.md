@@ -31,6 +31,13 @@
 
 ---
 
+# Em que ando trabalhando no momento 
+
+- Atuando no Front-end no desenvolvimento do site do Laboratório LEGIDEPE;
+- Estudando sobre a área de Análise de Dados;
+
+---
+
 # Resumos Simples Publicados
 
 Resumos simples publicados no III Congresso Internacional de Educação e Inovação da Unimontes - Edição 2025
