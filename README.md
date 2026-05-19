@@ -1,10 +1,8 @@
 # Giovana Amorim
 
-📚 Graduanda em Sistemas de Informação pela Universidade Estadual de Montes Claros (**UNIMONTES**)  
-
-🔎 Bolsista de Iniciação Científica no Laboratório de Pesquisa do curso de Geografia da **UNIMONTES** 
-
-👩🏻‍💻 Atuo no desenvolvimento de produtos tecnológicos voltados à aprendizagem de Geografia, inovação educacional e apoio à docência  
+- 📚 Graduanda em Sistemas de Informação pela Universidade Estadual de Montes Claros (**UNIMONTES**);  
+- 🔎 Bolsista de Iniciação Científica no Laboratório de Pesquisa do curso de Geografia da **UNIMONTES**;
+- 🖥️ Atuo no desenvolvimento de produtos tecnológicos voltados à aprendizagem de Geografia, inovação educacional e apoio à docência;  
 
 ---
 
