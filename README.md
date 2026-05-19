@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Giovana%20Amorim&fontSize=70&fontColor=8A2BE2&animation=fadeIn&fontAlignY=42"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=#14008f,50:302b63,100:24243e&height=260&section=header&text=Giovana%20Amorim&fontSize=70&fontColor=8A2BE2&animation=fadeIn&fontAlignY=42"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=1000&lines=Graduanda+em+Sistemas+de+Informação;Data+Analytics+%7C+Data+Engineering;)](https://git.io/typing-svg)
