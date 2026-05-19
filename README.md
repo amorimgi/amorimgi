@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=1000&lines=Graduanda+em+Sistemas+de+Informação;Pesquisadora+em+Tecnologias+Educacionais;Data+Analytics+%7C+Data+Engineering;Python+%7C+SQL+%7C+Power+BI)](https://git.io/typing-svg)
+
 # Sobre mim
 
 - 📚 Graduanda em Sistemas de Informação pela Universidade Estadual de Montes Claros (**UNIMONTES**);  
