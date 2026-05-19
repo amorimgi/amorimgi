@@ -46,18 +46,26 @@ Resumos simples publicados no III Congresso Internacional de Educação e Inova�
 
 ---
 
+# Filosofia Profissional
+
+- Dados orientam decisões
+- Automação gera eficiência
+- Aprendizado contínuo é essencial
+
+---
+
 # Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanasamorim)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugiovanaamorim@gmail.com)
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/SEU-ID.svg)](https://wakatime.com/@SEU-USUARIO)
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/SEU-USUARIO)
+```bash
+> whoami
 
-![Metrics](https://metrics.lecoq.io/amorimgi)
-
+Giovana Amorim
+Data Analytics • Data Engineering
+Pesquisadora em Tecnologias Educacionais
 
