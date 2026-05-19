@@ -23,6 +23,7 @@
 - Data Engineering
 - Data Analytics
 - Inteligência Artificial
+- Automação de Processos
 - UI Design
 
 ---
