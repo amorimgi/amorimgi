@@ -1,10 +1,19 @@
-# Giovana Amorim
+# Sobre mim
 
 - 📚 Graduanda em Sistemas de Informação pela Universidade Estadual de Montes Claros (**UNIMONTES**);  
 - 🔎 Bolsista de Iniciação Científica no Laboratório de Pesquisa do curso de Geografia da **UNIMONTES**;
 - 🖥️ Atuo no desenvolvimento de produtos tecnológicos voltados à aprendizagem de Geografia, inovação educacional e apoio à docência;  
 
 ---
+
+# 🛠️ Tecnologias 
+
+## 📊 Análise de Dados
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
