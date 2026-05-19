@@ -6,7 +6,7 @@
 
 ---
 
-# 🛠️ Tecnologias e Áreas de Interesse
+# Tecnologias e Áreas de Interesse
 
 ## 📊 Análise de Dados
 
@@ -18,7 +18,7 @@
 
 ---
 
-# 📋 Resumos Simples Publicados
+# Resumos Simples Publicados
 
 📄 ["Breve discussão sobre a Inteligência Artificial e o ensino de Geografia." - 2025](https://congresso.unimontes.br/anais/d4cc6a63-6d86-4b3a-b032-feaebb9a5593)
 
