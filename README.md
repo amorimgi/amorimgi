@@ -52,6 +52,12 @@ Resumos simples publicados no III Congresso Internacional de Educação e Inova�
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/SEU-ID.svg)](https://wakatime.com/@SEU-USUARIO)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/SEU-USUARIO)
+
+![Metrics](https://metrics.lecoq.io/amorimgi)
 
 
