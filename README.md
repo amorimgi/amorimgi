@@ -35,9 +35,5 @@ Resumos simples publicados no III Congresso Internacional de Educação e Inova�
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amorimgi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 👀 Visitas no Perfil
 
-![](https://komarev.com/ghpvc/?username=amorimgi&color=blueviolet&style=for-the-badge)
-
----
 
