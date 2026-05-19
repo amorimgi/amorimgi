@@ -29,3 +29,10 @@ Resumos simples publicados no III Congresso Internacional de Educação e Inova�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanasamorim)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugiovanaamorim@gmail.com)
 
+---
+
+# Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amorimgi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimgi&layout=compact&theme=tokyonight)
