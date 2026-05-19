@@ -60,12 +60,5 @@ Resumos simples publicados no III Congresso Internacional de Educação e Inova�
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-```bash
-> whoami
-
-Giovana Amorim
-Data Analytics • Data Engineering
-Pesquisadora em Tecnologias Educacionais
 
